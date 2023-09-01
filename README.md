@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - 세상엔 마음을 표현할 수 있는 언어들이 정말 많아요. 물론 컴퓨터 언어로도 가능하죠!<br/>
 그게 무엇이든, 진심을 담습니다.
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mooddddd&show_icons=true&theme=vue)<br/>
+
 <br/>
 
 ### 👩‍💻 Languages And Tools
@@ -48,7 +51,6 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mooddddd&show_icons=true&theme=vue)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooddddd&layout=compact&theme=vue)
 
 
