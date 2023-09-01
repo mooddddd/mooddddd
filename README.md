@@ -46,6 +46,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/>
 </div>
+<br/>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mooddddd&show_icons=true&theme=vue)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooddddd&layout=compact&theme=vue)
+
 
 <br/>
 
